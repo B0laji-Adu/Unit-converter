@@ -1,7 +1,7 @@
 # Unit-converter
-This is a unit converter that convert unit to
+This is a unit converter that convert unit from
 <ul>
-  <li></li>
-   <li></li>
-   <li></li>
+  <li>meters to feet and vice versa</li>
+   <li>liters to gallon and vice versa</li>
+   <li>pounds to kilos and vice versa</li>
 </ul>
